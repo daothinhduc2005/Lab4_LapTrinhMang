@@ -8,3 +8,14 @@ C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\WindowsFormsApp4\Wind
 C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
 C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
 C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Duc Thinh\Documents\Lập trình mạng\TH\Week 3\Lab4_LapTrinhMang\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources

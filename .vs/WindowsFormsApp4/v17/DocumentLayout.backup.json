@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\WindowsFormsApp4\\",
+  "WorkspaceRootPath": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\duc thinh\\documents\\l\u1EADp tr\u00ECnh m\u1EA1ng\\th\\week 3\\windowsformsapp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\duc thinh\\documents\\l\u1EADp tr\u00ECnh m\u1EA1ng\\th\\week 3\\lab4_laptrinhmang\\windowsformsapp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\duc thinh\\documents\\l\u1EADp tr\u00ECnh m\u1EA1ng\\th\\week 3\\windowsformsapp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\duc thinh\\documents\\l\u1EADp tr\u00ECnh m\u1EA1ng\\th\\week 3\\lab4_laptrinhmang\\windowsformsapp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\duc thinh\\documents\\l\u1EADp tr\u00ECnh m\u1EA1ng\\th\\week 3\\lab4_laptrinhmang\\windowsformsapp4\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{84A51A17-A2E9-4440-A270-0BED47E82C47}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,31 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\WindowsFormsApp4\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
-              "ToolTip": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
-              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwEcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\WindowsFormsApp4\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T06:05:34.853Z",
+              "WhenOpened": "2025-05-18T05:55:39.961Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\WindowsFormsApp4\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\WindowsFormsApp4\\Form2.Designer.cs*",
+              "RelativeToolTip": "WindowsFormsApp4\\Form2.Designer.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:37:41.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
-              "ToolTip": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs [Design]",
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\WindowsFormsApp4\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form2.cs",
+              "ToolTip": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\WindowsFormsApp4\\Form2.cs*",
+              "RelativeToolTip": "WindowsFormsApp4\\Form2.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T05:55:39.961Z",
+              "WhenOpened": "2025-05-18T06:35:27.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\WindowsFormsApp4\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form2.cs",
+              "ToolTip": "C:\\Users\\Duc Thinh\\Documents\\L\u1EADp tr\u00ECnh m\u1EA1ng\\TH\\Week 3\\Lab4_LapTrinhMang\\WindowsFormsApp4\\Form2.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp4\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:22:25.695Z",
               "EditorCaption": " [Design]"
             }
           ]
